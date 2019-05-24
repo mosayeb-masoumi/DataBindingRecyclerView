@@ -8,6 +8,8 @@ import android.support.v7.widget.RecyclerView;
 
 import java.util.ArrayList;
 
+//https://www.youtube.com/watch?v=EukoLrBLTjE
+
 public class MainActivity extends AppCompatActivity {
 
     RecyclerView recyclerView;
